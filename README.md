@@ -1,0 +1,1 @@
+Multimodule example with maven
